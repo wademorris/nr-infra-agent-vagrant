@@ -1,0 +1,5 @@
+logs:
+  - name: syslog_messages
+    file: /var/log/messages
+  - name: syslog
+    file: /var/log/syslog
