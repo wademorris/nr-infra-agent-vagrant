@@ -1,0 +1,1 @@
+printf "deb [arch=amd64] https://download.newrelic.com/infrastructure_agent/linux/apt jessie main" | sudo tee -a /etc/apt/sources.list.d/newrelic-infra.list
